@@ -1,0 +1,165 @@
+@font-face {
+    font-family: "SofiaProMedium"; /* Гарнитура шрифта */
+    src: url(/font/SofiaProMediumAz.otf);
+}
+@font-face {
+    font-family: "Cyrene"; /* Гарнитура шрифта */
+    src: url(/font/Cyrene.otf);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+
+    background-color: #FEFBF4;
+
+}
+
+a{
+    color: #19914A;
+    text-decoration: none;
+
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+#header{
+    margin-left: 200px;
+    margin-right: 200px ;
+
+    height: 60px;
+
+    line-height: 60px;
+
+    font-size: 13px;
+    text-align: center;
+
+    font-family: "SofiaProMedium";
+    color: #19914A;
+
+
+    border-bottom: 1px solid #19914A ;
+    border-left: 2px solid #19914A;
+    border-right: 2px solid #19914A;
+}
+
+#header_left{
+    float: left;
+}
+
+.image_header{
+    padding: 8px;
+}
+
+#header_right{
+    float: right;
+}
+
+ #main{
+     margin-left: 200px;
+     margin-right: 200px;
+
+     height: 4352px;
+}
+
+#main_with_border{
+    border-left: 2px solid #19914A;
+    border-right: 2px solid #19914A;
+    border-bottom: 2px solid #19914A;
+    height: 4142px;
+}
+
+#main_first_block{
+    font-family: "SofiaProMedium";
+    color: #19914A;
+
+    font-family: Cyrene;
+    font-size: 100px;
+    line-height: 120px;
+
+    padding-top: 35px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+    border-bottom: 1px solid #19914A;
+}
+
+#main_second_block{
+    font-family: "SofiaProMedium";
+    font-size: 85px;
+    color: #FEFBF4;
+
+    border-top: 1px solid #19914A;
+    border-bottom: 1px solid #19914A;
+    padding: 0;
+    margin: 0;
+
+    position: relative;
+}
+
+.image1 {
+    padding: 0;
+    margin: 0;
+    max-width: 50%;
+    height: auto;
+}
+
+#season{
+    line-height: 120px;
+    font-family: SofiaProMedium;
+    font-size: 95px;
+    text-align: center;
+    color: #FEFBF4;
+    position: absolute;
+
+    top: 523px;
+    left: 370px;
+
+
+}
+
+
+
+#main_third_block{
+    padding: 0;
+    margin-top: -4px;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+
+    border-top: 1px solid #19914A;
+    border-bottom: 1px solid #19914A;
+
+    font-family: SofiaProMedium;
+    color: #19914A;
+    font-size: 22px;
+    text-align: right;
+}
+#main_third_block p {
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
