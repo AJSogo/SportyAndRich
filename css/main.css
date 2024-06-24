@@ -139,6 +139,77 @@ a{
     margin-right: 20px;
 }
 
+#main_fourth_block{
+    font-family: SofiaProMedium;
+    color: #19914A;
+    text-align: center;
+    font-size: 16px;
+    line-height: 20.8px;
+
+    border-bottom: 1px solid #19914A;
+}
+
+#main_fourth_block p {
+    padding-top: 90px;
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-bottom: 90px;
+}
+
+
+#main_fifth_block{
+    padding: 0;
+    margin: 0;
+}
+
+#fifth_block_images{
+    padding: 0;
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-bottom: 1px solid #19914A;
+
+    font-family: SofiaProMedium;
+    color: #19914A;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+
+#fifth_block_first_images{
+    border-right: 1px solid #19914A;
+}
+
+#fifth_block_second_images{
+    border-right: 1px solid #19914A;
+}
+
+#image3,#image4, #image5{
+    width: 340px;
+    height: auto;
+    padding: 15px;
+}
+
+.to_left, .to_right{
+    display: inline-block;
+    margin-top: 0;
+    padding-top: 0;
+}
+.to_left{
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+}
+.to_right{
+    padding-left: 15px;
+    padding-right: 15px;
+    float: right;
+}
+
+
 
 
 
